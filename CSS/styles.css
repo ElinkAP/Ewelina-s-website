@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-  color: #eaf6f6;
+  color: #2bc4ad;
 }
 
 p {
@@ -59,6 +59,11 @@ hr {
 
 ul {
   clear: both;
+}
+
+table{
+  width: auto;
+  border-collapse: collapse;
 }
 
 .top-container {
